@@ -34,9 +34,9 @@ A detailed description of the modelling strategy is contained [here](Model_steps
 To meet the competitiveness requirement, regardless of return on investment (ROI) of unspent monies, increasing spending by an order of magnitude for two of the years (in the first 5 years) is required . However, large player budgets in 2025 and 2026 are ideal given other considerations. 
 
 *	Large player salaries early in the venture is not prudent because:
-**	support structures for the team are yet to be tried and tested;
-**	public typically have a low expectation of performance early in the venture, however, mediocre performance following success could reduce morale and support; and
-**	three years of low spending enables early validation of the model and assumptions without exposing the venture to significant risk.
+*   support structures for the team are yet to be tried and tested;
+*   public typically have a low expectation of performance early in the venture, however, mediocre performance following success could reduce morale and support; and
+*   three years of low spending enables early validation of the model and assumptions without exposing the venture to significant risk.
 
 *	If the team proves successful in 2025 or 2026 it may garner strong national support and interest, inducing higher team investment from 2027-2031, and leading to a greater chance of future tournament success and further economic benefits.
 
@@ -104,4 +104,20 @@ An assumption of 12% ROI is not required to maintain net profit over 10 years; a
 
 Rarita should only be concerned when inflation exceeds 5%. The economic data provided illustrates that Rarita’s inflation has steadily decreased and was recorded as 1.32% in 2020 due to the COVID-19 pandemic. This relatively low inflation rate in 2020 is comparable to other countries, such as the US.  While inflation is expected to rebound globally for the next few years, Rarita’s inflation will likely settle on the historical average of 3.5%.
 
+## Additional Information
+
+The [full report]() and accompanying annexes, [RMarkdown file]() for player selection and [Spreadsheets]() for economic analysis, are available for further information.
+
+## References
+
+Australian Sports Commission 2017, Intergenerational Review of Australian Sport 2017, Canberra
+Choy, L 2022, Global M&A By the Numbers: 2021 Recap, accessed 14 March 202, < https://www.spglobal.com/marketintelligence/en/news-insights/blog/global-ma-by-the-numbers-2021-recap>
+Damodaran Online 2022, Historical Returns on Stocks, Bonds and Bills: 1928-2021, accessed 16 March 2022, < https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html>
+Frontier Economics 2010, The economic contribution of sport to Australia, accessed 16 March 2022, < https://www.clearinghouseforsport.gov.au/__data/assets/pdf_file/0005/855266/EconContribution_powerpoint.pdf>
+Giraud, T 2014, ‘Did the 1998 FIFA World Cup in France have positive impacts on employment?’, accessed 13 March 2022 from DiVA Portal
+U.S. Bureau of Labour Statistics 2022, Historical Consumer Price Index for All Urban Consumers, accessed 13 March 2022, < https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202202.pdf>
+Roberts, A., Roche, N., Jones, C. & Munday, M 2016, ‘What is the value of a Premier League football club to a regional economy?’: European Sport Management Quarterly, Vol 16, No 5, pp. 575-591, accessed 15 March 2022 from Taylor & Francis, DOI: 10.1080/16184742.2016.1188840
+Toohey, K 2008, ‘Terrorism, sport and public policy in the risk society’, Sport in Society: Cultures, Commerce, Media, Politics, Vol 11, No 4, pp. 429-442, accessed 14 March 2022 from Taylor & Francis, DOI: 10.1080/17430430802019367
+U.S. Bureau of Labour Statistics 2022, Historical Consumer Price Index for All Urban Consumers, accessed 13 March 2022, < https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202202.pdf>
+Weimar, D. & Wicker, P 2017, ‘Moneyball Revisited: Effort and Team Performance in Professional Soccer’: Journal of Sports Economics, Vol 18, No 2, pp. 140-161, accessed 14 March 2022 from Sage Journals Online , DOI: 10.1177/1527002514561789
 
