@@ -122,7 +122,7 @@ The [full report](https://github.com/ACTL5100-T1-2022/github-showcase-page-the-a
 
 Thank you for viewing.
 
-![Thanks](thank-you-football.PNG)
+![Thanks](thank-you-football.png)
 
 
 ## Bibliography
