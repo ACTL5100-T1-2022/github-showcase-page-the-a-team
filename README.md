@@ -58,7 +58,7 @@ The anticipated spending on players for each year and the subsequent probabiliti
 The players chosen for the 2022 tournament are found [here](player_list_2022.PNG).
 
 ### Monitor
-The folloing key matrics were used to monitor the strategy.
+The folloing key metrics were used to monitor the strategy.
 
 ![monitor](monitor.PNG)
 
