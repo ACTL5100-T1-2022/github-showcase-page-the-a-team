@@ -19,18 +19,18 @@ Over the 10 years, the investment of 995mil Doubloons allows Rarita to construct
 ###	Steps
 Step 1:	Determined player's value based on playing statistics, position, and league (important indicator of the quality of opposition). \
 Step 2:	Maximised the total value of a team whilst constraining the total player salary, number of players in a position and proportion of allocated value for each position.\
-Step 3:	Applied model to different salary caps to fit a polynomial equation linking salary and value.\
+Step 3:	Applied model to different salary caps to fit a polynomial equation linking salary and value.
 
 ![Total Paid Salary for Rarita National Team Players Mapped to the Total Underlying Team Value that can be Achieved](Total%20Paid%20Salary%20for%20Rarita%20National%20Team%20Players%20Mapped%20to%20the%20Total%20Underlying%20Team%20Value%20that%20can%20be%20Achieved%20(With%20a%20Fitted%206th%20Order%20Polynomial).png)
 
-Step 4:	After establishing a strong link between underlying team value and performance, determined the probability of placing top 10 using team data from the 2021 tournament - probabilities were found by discounting the total team value back to 2021 at the superimposed inflation rate.\
+Step 4:	After establishing a strong link between underlying team value and performance, determined the probability of placing top 10 using team data from the 2021 tournament - probabilities were found by discounting the total team value back to 2021 at the superimposed inflation rate.
 
 ![Value for 2021 Tournament Teams vs Tournament Placing](Player%20(Field%20and%20Goalkeeper)%20Value%20for%202021%20Tournament%20Teams%20vs%20Tournament%20Placing.png)
 
 ![Probabilities](Total%20Team%20Value%20Discounted%20to%202021%20and%20Corresponding%20Probabilities%20of%20Finishing%20Top%203%20(Place)%2C%20Top%2010%20but%20Not%20Top%203%20(Top%2010)%20or%20Outside%20Top%2010%20(Bottom).png)
 
 Step 5: Minimised the net present value (NPV) of the total player salaries each year (includes return on investment and superimposed inflation), whilst meeting the competitiveness requirement.\
-Step 6:	With the team budget for each year confirmed, players were selected.\
+Step 6:	With the team budget for each year confirmed, players were selected.
 
 A detailed description of the modelling strategy is contained [here](Model_steps.PNG).
 
