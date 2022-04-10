@@ -11,6 +11,7 @@ In constructing a competitive team, below were the objectives:
 *	Rarita having a high probability of achieving a championship within the next 10 years.
 
 The team selected for Rarita is comprised of 5 to 8 players for each position. The team will have a 99% probability of ranking within top 10 members of the FSA for the next 5 years and 95% of probability of placing in the top 3 within the next 10 years.\
+
 Over the 10 years, the investment of 995mil Doubloons allows Rarita to construct a competitive team without additional funding. While the venture is projected to remain profitable in most scenarios, consistent poor performance or a lack of consumer interest may result in lower revenue growth and create a going concern. 
 
 
@@ -30,6 +31,7 @@ Step 4:	After establishing a strong link between underlying team value and perfo
 ![Probabilities](Total%20Team%20Value%20Discounted%20to%202021%20and%20Corresponding%20Probabilities%20of%20Finishing%20Top%203%20(Place)%2C%20Top%2010%20but%20Not%20Top%203%20(Top%2010)%20or%20Outside%20Top%2010%20(Bottom).png)
 
 Step 5: Minimised the net present value (NPV) of the total player salaries each year (includes return on investment and superimposed inflation), whilst meeting the competitiveness requirement.\
+
 Step 6:	With the team budget for each year confirmed, players were selected.
 
 A detailed description of the modelling strategy is contained [here](Model_steps.PNG).
@@ -71,6 +73,7 @@ The following scenarios were used to determine the economic impact of creating a
 1. No material impact (may occur if the team consistently underperforms, or if there is little consumer interest). 
 * Revenues and expenses will grow in line with the historical average, defined as the 4-year geometric mean between 2016-2020 except for matchday revenues. 
 * 2019-20 matchday data should be omitted to remove the effect of the COVID-19 pandemic which prevented live matches.  
+
 2. Moderate Impact
 * Revenue growth will be double the historical average over the next 5 years.
 * Aligns with Rarita’s goal to be a top 10 team within 5 years whereby a high-value team selected in years 2025-26 will succeed in placing in the top 10 to generate greater revenues through consistent public interest and sales.  
@@ -114,6 +117,10 @@ Rarita should only be concerned when inflation exceeds 5%. The economic data pro
 ## Additional Information
 
 The [full report](https://github.com/ACTL5100-T1-2022/github-showcase-page-the-a-team/blob/main/The%20A%20Team%20FSA%20Leagure%20Report%202022.docx) and accompanying annexes, [RMarkdown file](https://github.com/ACTL5100-T1-2022/github-showcase-page-the-a-team/blob/main/Annex%20A%20-%20Team%20Selection%20Code%20and%20Commentary.docx) for player selection and [spreadsheets](https://github.com/ACTL5100-T1-2022/github-showcase-page-the-a-team/blob/main/Annex%20B%20-%20Economic%20Impact%20and%20Sensitivity%20Analysis.xlsx) for economic analysis, are available for further information.
+
+Thank you for viewing.
+![Thank you for viewing.](https://github.com/ACTL5100-T1-2022/github-showcase-page-the-a-team/blob/main/thank-you-football.jpg)
+
 
 ## Bibliography
 
