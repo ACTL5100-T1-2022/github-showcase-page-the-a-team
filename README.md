@@ -1,4 +1,5 @@
-# Internation Soccer Selection - The A Team
+# SOA 2022 Challenge - Rarita FSA Selection 
+#### The A Team
 
 ## Executive Summary
 
@@ -39,9 +40,9 @@ A detailed description of the modelling strategy is contained [here](Model_steps
 To meet the competitiveness requirement, regardless of return on investment (ROI) of unspent monies, increasing spending by an order of magnitude for two of the years (in the first 5 years) is required . However, large player budgets in 2025 and 2026 are ideal given other considerations. 
 
 * Large player salaries early in the venture is not prudent because:
-*         support structures for the team are yet to be tried and tested;
-*        public typically have a low expectation of performance early in the venture, however, mediocre performance following success could reduce morale and support; and
-*       three years of low spending enables early validation of the model and assumptions without exposing the venture to significant risk.
+  * support structures for the team are yet to be tried and tested;
+  * public typically have a low expectation of performance early in the venture, however, mediocre performance following success could reduce morale and support; and
+  * three years of low spending enables early validation of the model and assumptions without exposing the venture to significant risk.
 
 *	If the team proves successful in 2025 or 2026 it may garner strong national support and interest, inducing higher team investment from 2027-2031, and leading to a greater chance of future tournament success and further economic benefits.
 
@@ -68,14 +69,14 @@ The folloing key matrics were used to monitor the strategy.
 
 The following scenarios were used to determine the economic impact of creating an international Rarita soccer team:
 
-1. No material impact (may occur if the team consistently underperforms, or if there is little consumer interest). 
-*   Revenues and expenses will grow in line with the historical average, defined as the 4-year geometric mean between 2016-2020 except for matchday revenues. 
-*   2019-20 matchday data should be omitted to remove the effect of the COVID-19 pandemic which prevented live matches.
-2.  Moderate Impact
-*   Revenue growth will be double the historical average over the next 5 years.
-*   Aligns with Rarita’s goal to be a top 10 team within 5 years whereby a high-value team selected in years 2025-26 will succeed in placing in the top 10 to generate greater revenues through consistent public interest and sales.
-3.  High Impact
-*   Linear growth over the next 5 years up to the average revenues and expenses per capita recorded by the top 10 placing nations in 2020, before returning to the historical average growth.
+1.No material impact (may occur if the team consistently underperforms, or if there is little consumer interest). 
+* Revenues and expenses will grow in line with the historical average, defined as the 4-year geometric mean between 2016-2020 except for matchday revenues. 
+* 2019-20 matchday data should be omitted to remove the effect of the COVID-19 pandemic which prevented live matches.
+2.Moderate Impact
+* Revenue growth will be double the historical average over the next 5 years.
+* Aligns with Rarita’s goal to be a top 10 team within 5 years whereby a high-value team selected in years 2025-26 will succeed in placing in the top 10 to generate greater revenues through consistent public interest and sales.
+3.High Impact
+* Linear growth over the next 5 years up to the average revenues and expenses per capita recorded by the top 10 placing nations in 2020, before returning to the historical average growth.
 
 ### Assumptions
 
