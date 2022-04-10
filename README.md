@@ -70,10 +70,11 @@ The following scenarios were used to determine the economic impact of creating a
 
 1.No material impact (may occur if the team consistently underperforms, or if there is little consumer interest). 
 * Revenues and expenses will grow in line with the historical average, defined as the 4-year geometric mean between 2016-2020 except for matchday revenues. 
-* 2019-20 matchday data should be omitted to remove the effect of the COVID-19 pandemic which prevented live matches.\
+* 2019-20 matchday data should be omitted to remove the effect of the COVID-19 pandemic which prevented live matches.  
 2.Moderate Impact
 * Revenue growth will be double the historical average over the next 5 years.
-* Aligns with Rarita’s goal to be a top 10 team within 5 years whereby a high-value team selected in years 2025-26 will succeed in placing in the top 10 to generate greater revenues through consistent public interest and sales.\
+* Aligns with Rarita’s goal to be a top 10 team within 5 years whereby a high-value team selected in years 2025-26 will succeed in placing in the top 10 to generate greater revenues through consistent public interest and sales.  
+
 3.High Impact
 * Linear growth over the next 5 years up to the average revenues and expenses per capita recorded by the top 10 placing nations in 2020, before returning to the historical average growth.
 
