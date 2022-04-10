@@ -1,5 +1,4 @@
-# SOA 2022 Challenge - Rarita FSA Selection 
-#### The A Team
+# SOA 2022 Challenge - Rarita FSA Selection - The A Team
 
 ## Executive Summary
 
