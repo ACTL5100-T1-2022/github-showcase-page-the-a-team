@@ -114,7 +114,7 @@ Rarita should only be concerned when inflation exceeds 5%. The economic data pro
 
 The [full report](https://github.com/ACTL5100-T1-2022/github-showcase-page-the-a-team/blob/main/The%20A%20Team%20FSA%20Leagure%20Report%202022.docx) and accompanying annexes, [RMarkdown file](https://github.com/ACTL5100-T1-2022/github-showcase-page-the-a-team/blob/main/Annex%20A%20-%20Team%20Selection%20Code%20and%20Commentary.docx) for player selection and [spreadsheets](https://github.com/ACTL5100-T1-2022/github-showcase-page-the-a-team/blob/main/Annex%20B%20-%20Economic%20Impact%20and%20Sensitivity%20Analysis.xlsx) for economic analysis, are available for further information.
 
-## References
+## Bibliography
 
 *	Australian Sports Commission 2017, Intergenerational Review of Australian Sport 2017, Canberra
 * Choy, L 2022, Global M&A By the Numbers: 2021 Recap, accessed 14 March 202, < https://www.spglobal.com/marketintelligence/en/news-insights/blog/global-ma-by-the-numbers-2021-recap>
