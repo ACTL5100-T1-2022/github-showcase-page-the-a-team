@@ -126,5 +126,5 @@ U.S. Bureau of Labour Statistics 2022, Historical Consumer Price Index for All U
 Roberts, A., Roche, N., Jones, C. & Munday, M 2016, ‘What is the value of a Premier League football club to a regional economy?’: European Sport Management Quarterly, Vol 16, No 5, pp. 575-591, accessed 15 March 2022 from Taylor & Francis, DOI: 10.1080/16184742.2016.1188840
 Toohey, K 2008, ‘Terrorism, sport and public policy in the risk society’, Sport in Society: Cultures, Commerce, Media, Politics, Vol 11, No 4, pp. 429-442, accessed 14 March 2022 from Taylor & Francis, DOI: 10.1080/17430430802019367
 U.S. Bureau of Labour Statistics 2022, Historical Consumer Price Index for All Urban Consumers, accessed 13 March 2022, < https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202202.pdf>
-Weimar, D. & Wicker, P 2017, ‘Moneyball Revisited: Effort and Team Performance in Professional Soccer’: Journal of Sports Economics, Vol 18, No 2, pp. 140-161, accessed 14 March 2022 from Sage Journals Online , DOI: 10.1177/1527002514561789
+Weimar, D. & Wicker, P 2017, ‘Moneyball Revisited: Effort and Team Performance in Professional Soccer’: Journal of Sports Economics, Vol 18, No 2, pp. 140-161, accessed 14 March 2022 from Sage Journals Online , DOI: 10.1177/1527002514561789 
 
