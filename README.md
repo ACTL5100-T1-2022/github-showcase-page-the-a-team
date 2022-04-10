@@ -114,16 +114,15 @@ Rarita should only be concerned when inflation exceeds 5%. The economic data pro
 
 The [full report](https://github.com/ACTL5100-T1-2022/github-showcase-page-the-a-team/blob/main/The%20A%20Team%20FSA%20Leagure%20Report%202022.docx) and accompanying annexes, [RMarkdown file](https://github.com/ACTL5100-T1-2022/github-showcase-page-the-a-team/blob/main/Annex%20A%20-%20Team%20Selection%20Code%20and%20Commentary.docx) for player selection and [spreadsheets](https://github.com/ACTL5100-T1-2022/github-showcase-page-the-a-team/blob/main/Annex%20B%20-%20Economic%20Impact%20and%20Sensitivity%20Analysis.xlsx) for economic analysis, are available for further information.
 
-## References
+## Bibliography
 
-Australian Sports Commission 2017, Intergenerational Review of Australian Sport 2017, Canberra
-Choy, L 2022, Global M&A By the Numbers: 2021 Recap, accessed 14 March 202, < https://www.spglobal.com/marketintelligence/en/news-insights/blog/global-ma-by-the-numbers-2021-recap>
-Damodaran Online 2022, Historical Returns on Stocks, Bonds and Bills: 1928-2021, accessed 16 March 2022, < https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html>
-Frontier Economics 2010, The economic contribution of sport to Australia, accessed 16 March 2022, < https://www.clearinghouseforsport.gov.au/__data/assets/pdf_file/0005/855266/EconContribution_powerpoint.pdf>
-Giraud, T 2014, ‘Did the 1998 FIFA World Cup in France have positive impacts on employment?’, accessed 13 March 2022 from DiVA Portal
-U.S. Bureau of Labour Statistics 2022, Historical Consumer Price Index for All Urban Consumers, accessed 13 March 2022, < https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202202.pdf>
-Roberts, A., Roche, N., Jones, C. & Munday, M 2016, ‘What is the value of a Premier League football club to a regional economy?’: European Sport Management Quarterly, Vol 16, No 5, pp. 575-591, accessed 15 March 2022 from Taylor & Francis, DOI: 10.1080/16184742.2016.1188840
-Toohey, K 2008, ‘Terrorism, sport and public policy in the risk society’, Sport in Society: Cultures, Commerce, Media, Politics, Vol 11, No 4, pp. 429-442, accessed 14 March 2022 from Taylor & Francis, DOI: 10.1080/17430430802019367
-U.S. Bureau of Labour Statistics 2022, Historical Consumer Price Index for All Urban Consumers, accessed 13 March 2022, < https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202202.pdf>
-Weimar, D. & Wicker, P 2017, ‘Moneyball Revisited: Effort and Team Performance in Professional Soccer’: Journal of Sports Economics, Vol 18, No 2, pp. 140-161, accessed 14 March 2022 from Sage Journals Online , DOI: 10.1177/1527002514561789 
+*	Australian Sports Commission 2017, Intergenerational Review of Australian Sport 2017, Canberra
+* Choy, L 2022, Global M&A By the Numbers: 2021 Recap, accessed 14 March 202, < https://www.spglobal.com/marketintelligence/en/news-insights/blog/global-ma-by-the-numbers-2021-recap>
+*	Damodaran Online 2022, Historical Returns on Stocks, Bonds and Bills: 1928-2021, accessed 16 March 2022, < https://pages.stern.nyu.edu/~adamodar/New_Home_Page/datafile/histretSP.html>
+*	Frontier Economics 2010, The economic contribution of sport to Australia, accessed 16 March 2022, < https://www.clearinghouseforsport.gov.au/__data/assets/pdf_file/0005/855266/EconContribution_powerpoint.pdf>
+*	Giraud, T 2014, ‘Did the 1998 FIFA World Cup in France have positive impacts on employment?’, accessed 13 March 2022 from DiVA Portal
+*	Roberts, A., Roche, N., Jones, C. & Munday, M 2016, ‘What is the value of a Premier League football club to a regional economy?’: European Sport Management Quarterly, Vol 16, No 5, pp. 575-591, accessed 15 March 2022 from Taylor & Francis, DOI: 10.1080/16184742.2016.1188840
+*	Toohey, K 2008, ‘Terrorism, sport and public policy in the risk society’, Sport in Society: Cultures, Commerce, Media, Politics, Vol 11, No 4, pp. 429-442, accessed 14 March 2022 from Taylor & Francis, DOI: 10.1080/17430430802019367
+*	U.S. Bureau of Labour Statistics 2022, Historical Consumer Price Index for All Urban Consumers, accessed 13 March 2022, < https://www.bls.gov/cpi/tables/supplemental-files/historical-cpi-u-202202.pdf>
+*	Weimar, D. & Wicker, P 2017, ‘Moneyball Revisited: Effort and Team Performance in Professional Soccer’: Journal of Sports Economics, Vol 18, No 2, pp. 140-161, accessed 14 March 2022 from Sage Journals Online , DOI: 10.1177/1527002514561789 
 
